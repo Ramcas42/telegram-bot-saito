@@ -1,0 +1,11 @@
+{
+  "name": "telegram-bot-saito",
+  "version": "1.0.0",
+  "description": "fetches latest post from a subreddit and posts them on Telegram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramses Castillo <ramsescastillo42@gmail.com>",
+  "license": "MIT"
+}
